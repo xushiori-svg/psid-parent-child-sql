@@ -6,3 +6,4 @@ data/raw/*
 data/clean/
 data/psid.db
 .Rproj.user
+.Rhistory
