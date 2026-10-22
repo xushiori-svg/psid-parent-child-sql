@@ -1,0 +1,7 @@
+parent_income,child_income,log_ige,log_ige_se,rank_slope,rank_slope_se,n
+Parent 1968 only,Child at age 27,0.307,0.048,0.268,0.026,1352
+Parent 1968 only,Child at age 40,0.436,0.058,0.331,0.026,1352
+Parent 1968-1972 average,Child at age 27,0.348,0.055,0.285,0.026,1352
+Parent 1968-1972 average,Child at age 40,0.546,0.058,0.353,0.025,1352
+Parent 1968 only,Child age 35-44 average,0.369,0.035,0.364,0.025,1352
+Parent 1968-1972 average,Child age 35-44 average,0.484,0.035,0.392,0.024,1352

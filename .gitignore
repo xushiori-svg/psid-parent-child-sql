@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+# PSID data cannot be shared, so the raw and built data are not in the repo
+data/raw/*
+!data/raw/.gitkeep
+data/clean/
+data/psid.db
